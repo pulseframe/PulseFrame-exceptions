@@ -1,6 +1,6 @@
 <?php
 
-namespace PulseFrame\Crimson\Exceptions;
+namespace PulseFrame\Exceptions;
 
 class BadRequestException extends \RuntimeException
 {
